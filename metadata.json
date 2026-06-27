@@ -1,0 +1,6 @@
+{
+  "name": "Stenly API - Infrastructure Data Engine",
+  "description": "Platform API Infrastructure oleh Stenly. Menyediakan akses API untuk DeepSeek, Perplexity, dan Media Downloader.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
